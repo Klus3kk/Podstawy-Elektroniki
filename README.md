@@ -1,2 +1,2 @@
 # Podstawy-Elektroniki
-Wszystkie zagadnienia związane z podstawami elektroniki.
+Wszystkie zagadnienia związane z podstawami elektroniki
